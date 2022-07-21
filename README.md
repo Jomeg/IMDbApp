@@ -1,0 +1,2 @@
+# IMDbApp
+Creation of movie app, which is divided into 4 sections: Home, search, notifications and user. The images and data of the movies are consumed from the API service and login with credentials registered and saved in Firebase. /  Creación de app de peliculas, la cual se encuentra dividida en 4 secciones: Inicio, busqueda, notificaciones y usuario. Las imagenes y datos de las peliculas son consumida desde servicio API y logueo con credenciales registradas y guardadas en Firebase.
