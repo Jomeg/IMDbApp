@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306117865678",
+    "project_id": "jose-bootcamp-android",
+    "storage_bucket": "jose-bootcamp-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306117865678:android:1aef83a92d665db104209f",
+        "android_client_info": {
+          "package_name": "com.example.josebootcampandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306117865678-3tc7ksnfej762mvklb36n0f7f9u1jrcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFEqoLWnZE5AuE5WJU5kFzWX_LvUs5XkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306117865678-3tc7ksnfej762mvklb36n0f7f9u1jrcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
